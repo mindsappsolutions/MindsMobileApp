@@ -3,8 +3,8 @@ import { Text, View } from "react-native";
 
 
 
-const App=()=>{
-  return(
+const App = () => {
+  return (
     <View>
       <Text>App start</Text>
     </View>
